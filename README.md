@@ -39,9 +39,9 @@ Floomind acompaña al usuario en su bienestar cognitivo: conversa por voz median
 
 ### Asistente de voz
 
-<img src="docs/screenshots/01_mind_voz.jpeg" width="240" alt="Pantalla MIND por voz"/>&nbsp;&nbsp;
-<img src="docs/screenshots/02_conversacion.jpeg" width="240" alt="Conversación con MIND"/>&nbsp;&nbsp;
-<img src="docs/screenshots/03_calibrar_voz.jpeg" width="240" alt="Calibración de voz"/>
+<img src="01_mind_voz.jpeg" width="240" alt="Pantalla MIND por voz"/>&nbsp;&nbsp;
+<img src="02_conversacion.jpeg" width="240" alt="Conversación con MIND"/>&nbsp;&nbsp;
+<img src="03_calibrar_voz.jpeg" width="240" alt="Calibración de voz"/>
 
 _Activación por voz «Hola Mind» · Conversación con el asistente MIND · Clonado de voz on-device_
 
@@ -49,9 +49,9 @@ _Activación por voz «Hola Mind» · Conversación con el asistente MIND · Clo
 
 ### Home e intervenciones
 
-<img src="docs/screenshots/04_home.jpeg" width="240" alt="Home y acciones rápidas"/>&nbsp;&nbsp;
-<img src="docs/screenshots/05_menu.jpeg" width="240" alt="Menú principal"/>&nbsp;&nbsp;
-<img src="docs/screenshots/06_wearables.jpeg" width="240" alt="Integración de wearables"/>
+<img src="04_home.jpeg" width="240" alt="Home y acciones rápidas"/>&nbsp;&nbsp;
+<img src="05_menu.jpeg" width="240" alt="Menú principal"/>&nbsp;&nbsp;
+<img src="06_wearables.jpeg" width="240" alt="Integración de wearables"/>
 
 _Acciones rápidas (respirar, meditar, biofeedback) · Menú «Tu Floomind» · Integración con wearables (Health Connect, Oura, Fitbit)_
 
@@ -59,9 +59,9 @@ _Acciones rápidas (respirar, meditar, biofeedback) · Menú «Tu Floomind» · 
 
 ### Progreso y perfil
 
-<img src="docs/screenshots/07_patrones.jpeg" width="240" alt="Patrones de pensamiento"/>&nbsp;&nbsp;
-<img src="docs/screenshots/08_eficiencia.jpeg" width="240" alt="Métricas de eficiencia cognitiva"/>&nbsp;&nbsp;
-<img src="docs/screenshots/09_perfil.jpeg" width="240" alt="Perfil y configuración"/>
+<img src="07_patrones.jpeg" width="240" alt="Patrones de pensamiento"/>&nbsp;&nbsp;
+<img src="08_eficiencia.jpeg" width="240" alt="Métricas de eficiencia cognitiva"/>&nbsp;&nbsp;
+<img src="09_perfil.jpeg" width="240" alt="Perfil y configuración"/>
 
 _Perfil cognitivo: detección de sesgos (Beck / Kahneman) · Métricas de eficiencia cognitiva · Perfil y configuración de la MIND_
 
@@ -171,4 +171,3 @@ Proyecto en desarrollo activo. El núcleo está operativo: registro y autenticac
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-agustín--formica-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustín-formica)
 
 <!-- Nota: este README es una VITRINA del proyecto. El código completo se mantiene privado; se comparte a pedido en procesos de entrevista. -->
-
