@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧠 Floomind
+# 🧠 "Floomind"
 
 ### Agente de bienestar y eficiencia cognitiva con asistente de IA de voz
 
